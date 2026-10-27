@@ -28,6 +28,10 @@ features
   - draw fov
   - debugging
 
+uses bbox for estimated head position, true bone aimbot still needs to be done.<br/>
+aim movement done by mouse, requiring ingame mouseinput-mode to be "Windows Input"<br/>
+many resources are taken from [IoQuakeLive](https://github.com/skybersec/ioquakelive) <br/>
+
 built with assistance from friendly AI locals and CE<br/>
 powered by .NET 10<br/>
 The project will be open-sourced upon completion.

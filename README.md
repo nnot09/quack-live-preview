@@ -36,4 +36,4 @@ built with assistance from friendly AI locals and CE<br/>
 powered by .NET 10<br/>
 The project will be open-sourced upon completion.
 
-video: [streamable](https://streamable.com/ohzlw3)
+video: [sendvid](https://sendvid.com/1svigf1n)
